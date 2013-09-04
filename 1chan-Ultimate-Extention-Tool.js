@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name 1chan Ultimate Extension Tool
-// @author anon
+// @author 1anon, postman, ayacudere, theanonym
 // @version 41k
-// @description Толстая склейка нескольких скриптов. Включает в себя лепеха-скрипт, автоколчаньку, автоочкопетуха, автоохотника и даже автосеруна с автописуном. Умеет показывать сущность пользователей, имеет сосач-френдли режим. Отличная тулза для всей семьи!
+// @description For some info, updates and stuff please contact maeggot@yandex.ru
 // @icon http://1chan.ru/ico/favicons/1chan.ru.gif
-// @downloadURL Just call maeggot@yandex.ru
+// @downloadURL https://github.com/1Anon/1chan/blob/master/1chan-Ultimate-Extention-Tool.js
 // @match http://*1chan.ru/*
 // @require http://github.com/andris9/jStorage/raw/master/jstorage.js
 // @include       http://1chan.ru/*
