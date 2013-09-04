@@ -1,7 +1,7 @@
-1chan Ultimate Extention Tools
+1chan Ultimate Extension Tools
 ==========
 
-Основано на [1chan Extention Tools](https://github.com/ayakudere/1chan-Extension-Tools)
+Основано на [1chan Extension Tools](https://github.com/ayakudere/1chan-Extension-Tools)
 =====
 
 В основном к нему были допилены разные, таких, как:
