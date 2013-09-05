@@ -35,5 +35,6 @@ To Do:
 Копирайты
 ==
 Оригинальный скрипт написан Postman, TheAnonym, Ayakudere хрен знает когда. Костыли приделаны в 2013.
+
 1chan Ultimate Extension Tool распространяется, как и 1chan Extension Tool, по новой лицензии BSD.
 
